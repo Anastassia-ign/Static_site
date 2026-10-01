@@ -1,0 +1,10 @@
+{
+  "description": "This application provides comprehensive website statistics, enabling users to analyze performance metrics and improve their online presence effectively.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
